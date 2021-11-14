@@ -1,6 +1,5 @@
 class Cli {
   setArg(value) {
-
   }
   getArg(value) {
     return null;
